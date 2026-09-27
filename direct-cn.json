@@ -70,6 +70,11 @@
         "cmbchina.com",
         "psbc.com"
       ]
+    },
+    {
+      "domain_regex": [
+        "(^|\\.)((bilicdn[1-5]|biliimg)\\.com|bilivideo\\.(cn|net)|hdslb\\.org|biliapi\\.com|bilibili\\.(cc|cn|net)|acgvideo\\.com)$"
+      ]
     }
   ]
 }
