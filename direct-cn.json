@@ -75,6 +75,11 @@
       "domain_regex": [
         "(^|\\.)((bilicdn[1-5]|biliimg)\\.com|bilivideo\\.(cn|net)|hdslb\\.org|biliapi\\.com|bilibili\\.(cc|cn|net)|acgvideo\\.com)$"
       ]
+    },
+    {
+      "domain_regex": [
+        "(^|\\.)(?:baidu\\.cn|baidu\\.com\\.cn|baiduapp\\.com|baidubce\\.com|baiducontent\\.com|baidustatic\\.com|baidu\\-cdn\\.cn|baidu\\-cdn\\.com|baidu\\-cdn\\.net|baiduyuncdn\\.cn|baiduyuncdn\\.com|baiduyuncdn\\.net|bce\\-cdn\\.cn|bce\\-cdn\\.com|bce\\-cdn\\.net|bcebos\\.com|bdcloudapi\\.com|bdycdn\\.cn|bdycdn\\.net|shifen\\.com|jomocdn\\.cn|jomocdn\\.net|antpcdn\\.com)$"
+      ]
     }
   ]
 }
