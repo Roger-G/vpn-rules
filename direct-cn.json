@@ -5397,8 +5397,73 @@
       ]
     },
     {
-      "domain_regex": [
-        "(^|\\.)(bilibili\\.com|biliapi\\.net|bilivideo\\.com|hdslb\\.com|b23\\.tv|qq\\.com|qpic\\.cn|gtimg\\.cn|wechat\\.com|weixinbridge\\.com|tenpay\\.com|jd\\.com|jd\\.cn|360buy\\.com|360buyimg\\.com|jdcloud\\.com|taobao\\.com|tmall\\.com|alipay\\.com|alipayobjects\\.com|alicdn\\.com|aliimg\\.com|tbcdn\\.cn|xianyu\\.com|amap\\.com|autonavi\\.com|gaode\\.com|baidu\\.com|bdimg\\.com|bdstatic\\.com|meituan\\.com|dianping\\.com|meituan\\.net|ele\\.me|elemecdn\\.com|douyin\\.com|douyinvod\\.com|byteimg\\.com|bytedance\\.com|ixigua\\.com|snssdk\\.com|xiaohongshu\\.com|xhscdn\\.com|weibo\\.com|weibocdn\\.com|sinaimg\\.cn|zhihu\\.com|zhimg\\.com|163\\.com|126\\.com|netease\\.com|12306\\.cn|railway12306\\.cn|ctrip\\.com|qunar\\.com|fliggy\\.com|95516\\.com|unionpay\\.com|icbc\\.com\\.cn|ccb\\.com|abchina\\.com|abchina\\.com\\.cn|95599\\.cn|bankofchina\\.com|cmbchina\\.com|psbc\\.com)$"
+      "domain_suffix": [
+        "bilibili.com",
+        "biliapi.net",
+        "bilivideo.com",
+        "hdslb.com",
+        "b23.tv",
+        "qq.com",
+        "qpic.cn",
+        "gtimg.cn",
+        "wechat.com",
+        "weixinbridge.com",
+        "tenpay.com",
+        "jd.com",
+        "jd.cn",
+        "360buy.com",
+        "360buyimg.com",
+        "jdcloud.com",
+        "taobao.com",
+        "tmall.com",
+        "alipay.com",
+        "alipayobjects.com",
+        "alicdn.com",
+        "aliimg.com",
+        "tbcdn.cn",
+        "xianyu.com",
+        "amap.com",
+        "autonavi.com",
+        "gaode.com",
+        "baidu.com",
+        "bdimg.com",
+        "bdstatic.com",
+        "meituan.com",
+        "dianping.com",
+        "meituan.net",
+        "ele.me",
+        "elemecdn.com",
+        "douyin.com",
+        "douyinvod.com",
+        "byteimg.com",
+        "bytedance.com",
+        "ixigua.com",
+        "snssdk.com",
+        "xiaohongshu.com",
+        "xhscdn.com",
+        "weibo.com",
+        "weibocdn.com",
+        "sinaimg.cn",
+        "zhihu.com",
+        "zhimg.com",
+        "163.com",
+        "126.com",
+        "netease.com",
+        "12306.cn",
+        "railway12306.cn",
+        "ctrip.com",
+        "qunar.com",
+        "fliggy.com",
+        "95516.com",
+        "unionpay.com",
+        "icbc.com.cn",
+        "ccb.com",
+        "abchina.com",
+        "abchina.com.cn",
+        "95599.cn",
+        "bankofchina.com",
+        "cmbchina.com",
+        "psbc.com"
       ]
     },
     {
@@ -5409,6 +5474,24 @@
     {
       "domain_regex": [
         "(^|\\.)(?:baidu\\.cn|baidu\\.com\\.cn|baiduapp\\.com|baidubce\\.com|baiducontent\\.com|baidustatic\\.com|baidu\\-cdn\\.cn|baidu\\-cdn\\.com|baidu\\-cdn\\.net|baiduyuncdn\\.cn|baiduyuncdn\\.com|baiduyuncdn\\.net|bce\\-cdn\\.cn|bce\\-cdn\\.com|bce\\-cdn\\.net|bcebos\\.com|bdcloudapi\\.com|bdycdn\\.cn|bdycdn\\.net|shifen\\.com|jomocdn\\.cn|jomocdn\\.net|antpcdn\\.com)$"
+      ]
+    },
+    {
+      "domain": [
+        "apd-pcdnwxlogin.teg.tencent-cloud.net",
+        "slife.xy-asia.com"
+      ],
+      "domain_suffix": [
+        "iot-tencent.com",
+        "lbs.gtimg.com",
+        "qlogo.cn",
+        "servicewechat.com",
+        "wechatlegal.net",
+        "wechatos.net",
+        "wechatpay.com",
+        "weixin.com",
+        "weixinsxy.com",
+        "wx.gtimg.com"
       ]
     }
   ]
